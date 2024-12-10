@@ -1,4 +1,4 @@
-Name: ASRITHA MADURI
+![calculator ssc](https://github.com/user-attachments/assets/ff1044d3-4c28-4bb1-b94c-c41f6ea816ca)Name: ASRITHA MADURI
 Company:CODTECH IT SOLUTIONS
 ID:CT08DS9935
 Domain:Python Programming
@@ -26,6 +26,7 @@ Technologies Used:
 PYTHON:Python is the primary programming language used for building the calculator.
 TEXT-BASED USER INTERFACE (TUI):The calculator is built with a command-line interface (CLI),
 which is a text-based interface where the user interacts with the program through text input and output.
+
 
 
 
