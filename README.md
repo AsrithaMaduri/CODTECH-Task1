@@ -1,4 +1,4 @@
-![calculator ssc](https://github.com/user-attachments/assets/ff1044d3-4c28-4bb1-b94c-c41f6ea816ca)Name: ASRITHA MADURI
+Name: ASRITHA MADURI
 Company:CODTECH IT SOLUTIONS
 ID:CT08DS9935
 Domain:Python Programming
