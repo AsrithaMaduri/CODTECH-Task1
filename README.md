@@ -5,6 +5,9 @@ Domain:Python Programming
 Duration: November to December 2024
 Mentor:Neela Santhosh Kumar
 
+![calculator ssc](https://github.com/user-attachments/assets/2821db9e-936f-48d5-8692-9d567b436838)
+
+
 OVERVIEW  OF THE PROJECT:
 PROJECT: SIMPLE CALCULATOR
 OBJECTIVE:
